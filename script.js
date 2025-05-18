@@ -17,9 +17,9 @@ function showLoveLetter() {
 
 // Music rotation
 const songs = [
-  "music/agar_tum_saath_ho.mp3",
-  "music/tum_hi_ho.mp3",
-  "music/raabta.mp3"
+  "./music/agar_tum_saath_ho.mp3",
+  "./music/tum_hi_ho.mp3",
+  "./music/raabta.mp3"
 ];
 
 let currentSong = 0;
